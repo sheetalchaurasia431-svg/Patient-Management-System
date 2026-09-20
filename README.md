@@ -39,3 +39,7 @@ patient-management-system/
 ├── patients.json
 ├── .gitignore
 └── README.md
+
+## 🖥️ Project Interface
+
+![Patient Management System](patient-management-system.png)
